@@ -9,3 +9,5 @@ title/*佛跳墙*/
 *://so.ixigua.com/*
 title/小[\s\S]知识网/
 title/小[\s\S]百科网/
+*://z.sogou.com/*
+*://*/key/*
