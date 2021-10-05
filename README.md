@@ -1,4 +1,4 @@
-# uBlacklist-Subscription
+# uBlacklist
 
 这是一个适用于 [uBlacklist](https://github.com/iorate/uBlacklist/blob/master/README.md) 的黑名单订阅列表。
 
