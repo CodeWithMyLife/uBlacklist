@@ -1,0 +1,11 @@
+title/*一键访问国外网站*/
+title/*佛跳墙*/
+*://*/so.php
+*://*/so.php?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
+*://so.ixigua.com/*
+title/小[\s\S]知识网/
+title/小[\s\S]百科网/
