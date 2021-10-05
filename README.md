@@ -20,4 +20,4 @@ https://github.com/CodeWithMyLife/uBlacklist/raw/main/uBlacklist.txt
 
 ## 许可
 
-[MIT License](https://raw.githubusercontent.com/CodeWithMyLife/uBlacklist/master/License)
+[MIT License](https://github.com/CodeWithMyLife/uBlacklist/raw/main/License)
